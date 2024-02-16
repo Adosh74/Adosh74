@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shebl</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Software Engineer | Backend</h3>
 
 - 📝 I regularly write articles on [https://mohamedshebl.me](https://mohamedshebl.me)
 
