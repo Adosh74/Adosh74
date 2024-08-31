@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shebl</h1>
 <h3 align="center">Software Engineer | Backend</h3>
 
-- 📝 I regularly write articles on [https://mohamedshebl.me](https://mohamedshebl.me)
+- 📝 I regularly write articles on [https://mohamedshebl.tech](https://mohamedshebl.tech)
 
 - 💬 Ask me about **C, Javascript, Typescript, Node.js, Express, Python, Java**
 
-- 📫 How to reach me **shebl@mohamedshebl.me**
+- 📫 How to reach me **mohamedshebla@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
