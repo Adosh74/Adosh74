@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://mohamedshebl.tech](https://mohamedshebl.tech)
 
-- 💬 Ask me about **C, Javascript, Typescript, Node.js, Express, Python, Java**
+- 💬 Ask me about **C, Javascript, Typescript, Node.js, Express, Python, Java, Go**
 
 - 📫 How to reach me **mohamedshebla@gmail.com**
 
